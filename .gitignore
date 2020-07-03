@@ -1,0 +1,30 @@
+# MacOS junk
+.DS_Store
+
+# Generated files
+*/build/*.apk
+*.class
+*.log
+build/
+captures/
+gen/
+.cache/
+reports/
+
+# Gradle cached files and artifacts
+.gradle/
+
+# Local configuration file (contains the local path to the Android SDK)
+local.properties
+
+# local path to Android Studio JRE
+gradle/wrapper/java_home
+
+# Android Studio files (mostly local configuration)
+.idea/
+
+# User-specific configuration files
+*.iml
+.classpath
+.settings
+.project
